@@ -1,0 +1,12 @@
+{
+  "name": "service-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lendi-au/service-test.git",
+  "author": "Jordan Simonovski <jordan.simonovski@lendi.com.au>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "pg-promise": "^9.1.4"
+  }
+}
