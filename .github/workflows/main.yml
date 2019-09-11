@@ -22,5 +22,6 @@ jobs:
       with:
         node-version: '10.x'
     - run: yarn
+    - container: node:10.16-jessie
     - name: Test connection
       run: node index.js
